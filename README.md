@@ -2,6 +2,7 @@
 
 一个极简的 Unity 编辑器工具，用来**把某个 BlendShape 改名**。  
 特点：只改你选中的那一条；自动**复制出新 Mesh 资产**（不动原 FBX）；可选**自动替换到 SMR**。
+在把vrc面捕的EyeClosed改为ARKit通用的eyeBlink时相当方便。
 
 ---
 
@@ -19,7 +20,7 @@
 
 ---
 
-## 快速上手（30 秒）
+## 快速上手
 
 1. **选择 SMR**：在窗口顶端拖入你的 `SkinnedMeshRenderer`（该 Mesh 必须有 BlendShapes）。
 ![示意图1](示意图1.png)
