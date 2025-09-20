@@ -1,3 +1,5 @@
+![封面](封面.png)
+
 # 简易BlendShape改名工具 使用说明
 
 一个极简的 Unity 编辑器工具，用来**把某个 BlendShape 改名**。  
